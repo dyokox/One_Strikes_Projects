@@ -15,7 +15,7 @@ This was a combo of self-learning + watching YouTube tutorial from [Kavsoft](htt
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/dyokox/PrintTicket.git
+git clone https://github.com/dyokox/One_Strikes_Projects.git
 ```
 
 Alternatively, download the repository as a ZIP file from GitHub and extract it.
